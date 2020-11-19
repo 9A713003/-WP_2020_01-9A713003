@@ -1,0 +1,10 @@
+C:\Users\洨福\source\repos\WP_2020_01-9A713003\WP_2020_01-9A713003\bin\Debug\WP_2020_01-9A713003.exe.config
+C:\Users\洨福\source\repos\WP_2020_01-9A713003\WP_2020_01-9A713003\bin\Debug\WP_2020_01-9A713003.exe
+C:\Users\洨福\source\repos\WP_2020_01-9A713003\WP_2020_01-9A713003\bin\Debug\WP_2020_01-9A713003.pdb
+C:\Users\洨福\source\repos\WP_2020_01-9A713003\WP_2020_01-9A713003\obj\Debug\WP_2020_01-9A713003.csprojAssemblyReference.cache
+C:\Users\洨福\source\repos\WP_2020_01-9A713003\WP_2020_01-9A713003\obj\Debug\WP_2020_01_9A713003.Form1.resources
+C:\Users\洨福\source\repos\WP_2020_01-9A713003\WP_2020_01-9A713003\obj\Debug\WP_2020_01_9A713003.Properties.Resources.resources
+C:\Users\洨福\source\repos\WP_2020_01-9A713003\WP_2020_01-9A713003\obj\Debug\WP_2020_01-9A713003.csproj.GenerateResource.cache
+C:\Users\洨福\source\repos\WP_2020_01-9A713003\WP_2020_01-9A713003\obj\Debug\WP_2020_01-9A713003.csproj.CoreCompileInputs.cache
+C:\Users\洨福\source\repos\WP_2020_01-9A713003\WP_2020_01-9A713003\obj\Debug\WP_2020_01-9A713003.exe
+C:\Users\洨福\source\repos\WP_2020_01-9A713003\WP_2020_01-9A713003\obj\Debug\WP_2020_01-9A713003.pdb
