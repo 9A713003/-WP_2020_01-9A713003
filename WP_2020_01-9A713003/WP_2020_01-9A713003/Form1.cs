@@ -83,20 +83,5 @@ namespace WP_2020_01_9A713003
             }
            
         }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Form1_Shown(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
-        {
-            MessageBox.Show("是否關掉", "關閉程式", MessageBoxButtons.YesNo);
-        }
     }
 }
